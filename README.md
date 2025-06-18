@@ -1,0 +1,2 @@
+# licenca-inspel
+licenca inspel
